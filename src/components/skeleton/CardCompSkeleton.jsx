@@ -1,5 +1,5 @@
-import { Col, Row } from "antd";
-import { Content } from "antd/es/layout/layout";
+import { Col} from "antd";
+
 import React from "react";
 import Skeleton from "react-loading-skeleton";
 

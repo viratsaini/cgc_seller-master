@@ -5,7 +5,7 @@ import FooterComp from "../../../footerComp/FooterComp";
 import { Link, ScrollRestoration } from "react-router-dom";
 import axios from "axios";
 import { useParams } from "react-router";
-import { ArrowLeftOutlined, DeleteFilled } from "@ant-design/icons";
+import { ArrowLeftOutlined } from "@ant-design/icons";
 import SingleItemSkeleton from "../../../skeleton/SingleItemSkeleton";
 import ModelView from "../../../model/ModelView";
 
